@@ -1,0 +1,12 @@
+the 'tasks.json' file is the build file for live input in c++ in vscode for linux
+currently it doesn't work for c...
+
+in vscode, goto terminal -> build -> new build -> other
+
+paste the code of 'tasks.json' in the file and save.
+
+hit ctrl+b to run!
+
+(input.txt and output.txt must be present in your current working directory...)
+
+this also produces a sys.txt in the same folder, that contains the details of the program after execution like the memory and time utilized by the program!

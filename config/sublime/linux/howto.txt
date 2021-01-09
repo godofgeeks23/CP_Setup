@@ -1,0 +1,8 @@
+These are the build systems for sublime text 3, for c and c++.
+
+After installing sublime text, goto: tools -> build system -> new build system -> 
+and paste the provided code in the build file and save with any relevant name.
+
+(input.txt, output.txt must be present in your current program directory)
+
+Select the proper build system, and hit "ctrl+b" to run!
