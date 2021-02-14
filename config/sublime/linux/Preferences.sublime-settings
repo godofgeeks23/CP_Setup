@@ -12,6 +12,7 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"material_theme_accent_blue": true,
 	"material_theme_accent_cyan": true,
 	"material_theme_accent_scrollbars": true,
 	"material_theme_accent_titlebar": true,
@@ -26,5 +27,6 @@
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
 	"material_theme_titlebar": true,
+	"scroll_speed": 2.0,
 	"theme": "Material-Theme.sublime-theme"
 }
