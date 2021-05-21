@@ -1,0 +1,862 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"sticky"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"grid-ro",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"gri",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"A",
+				"autocomplete\tAttr"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"freq",
+				"freq_max_element"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"en",
+				"endl\tostream"
+			],
+			[
+				"cou",
+				"count\tfunc"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"temp",
+				"temp_min"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cp_basics.txt",
+			"settings":
+			{
+				"buffer_size": 11772,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cpcodes.txt",
+			"settings":
+			{
+				"buffer_size": 86649,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/snippets.txt",
+			"settings":
+			{
+				"buffer_size": 1417,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/quicktest.cpp",
+			"settings":
+			{
+				"buffer_size": 13337,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/kietquick.c",
+			"settings":
+			{
+				"buffer_size": 1432,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "data-list\nfigcaption\nl@ddum0tich00rke\nhttps://www.spoj.com/problems/OPMODULO/\nSpartacus",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix",
+				"name": "data-list"
+			}
+		},
+		{
+			"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/input.txt",
+			"settings":
+			{
+				"buffer_size": 30,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/output.txt",
+			"settings":
+			{
+				"buffer_size": 6,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"mate",
+				"Material Theme: Configuration"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dev",
+				"PackageDev: Edit Current Theme"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"edit",
+				"PackageDev: Edit Current Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mono",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"COLOr",
+				"UI: Select Color Scheme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"THEME",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs"
+	],
+	"file_history":
+	[
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/bootstrap/proj0/main.html",
+		"/media/aviral/Disk/Videos/Movies/[KatmovieHD.info] Bose - Dead or Alive (Web Series) 720p WEBHD Hindi Complete ESub/KatmovieHD.info.txt",
+		"/media/aviral/Disk/Videos/Movies/[KatmovieHD.info] Bose - Dead or Alive (Web Series) 720p WEBHD Hindi Complete ESub/katmoviehd.info.url",
+		"/media/aviral/Disk/Aviral/Anu/inf.txt",
+		"/home/aviral/Downloads/Manjhi The Mountain Man 2015 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/TeamTelly.txt",
+		"/home/aviral/Downloads/Manjhi The Mountain Man 2015 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/mkvCinemas.txt",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/3_proj3/styles.css",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/3_proj3/test.html",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/4_proj4/styles.css",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/4_proj4/test.html",
+		"/home/aviral/Downloads/Godzilla.vs.Kong.2021.1080p.WEBRip.x264-RARBG/RARBG.txt",
+		"/home/aviral/Documents/gh.html",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/2_proj2/styles.css",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/2_proj2/test.html",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/1_proj1/styles.css",
+		"/media/aviral/Disk/Aviral/Coding/webd_projs/innogeeks_projs/css/1_proj1/test.html",
+		"/home/aviral/Downloads/html/7_task/styles.css",
+		"/home/aviral/Downloads/html/7_task/test.html",
+		"/home/aviral/Downloads/html/6_task/test.html",
+		"/home/aviral/Downloads/html/6_task/styles.css",
+		"/home/aviral/Downloads/html/5_elements/test.html",
+		"/home/aviral/Downloads/html/4_forms1/test.html",
+		"/home/aviral/Downloads/html/4_forms1/styles.css",
+		"/home/aviral/Downloads/html/3_forms0/test.html",
+		"/home/aviral/Downloads/html/1_particlesTest0/index.html",
+		"/home/aviral/Downloads/html/proj0/styles.css",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/demo/css/style.css",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/demo/js/app.js",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/demo/index.html",
+		"/home/aviral/Downloads/html/1_particlesTest0/css/style.css",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/package.json",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/bower.json",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/.gitignore",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/README.md",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/demo/js/lib/stats.js",
+		"/home/aviral/Downloads/html/proj0/test.html",
+		"/home/aviral/Downloads/html/1_particlesTest0/particles.js/demo/particles.json",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/kiet.c",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cpcodes.txt",
+		"/home/aviral/Downloads/Telegram Desktop/Snowden (2016) [1080p] [YTS.AG]/Snowden.2016.1080p.BluRay.x264-[YTS.AG].srt",
+		"/etc/vsftpd.conf",
+		"/home/aviral/Downloads/Ardour-6.6.0-x86_64-gcc5.run",
+		"/home/aviral/Downloads/anuPhotos/fcts.txt",
+		"/home/aviral/Downloads/readme_md.txt",
+		"/home/aviral/Downloads/authentication client/.caa/README",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/p5js_projs/MatteredP5_proj3/src/sketch.js",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/p5js_projs/P5JSproject1/main/sketch.js",
+		"/home/aviral/.profile",
+		"/home/aviral/.caa/caa.conf",
+		"/home/aviral/.caa/README",
+		"/home/aviral/Downloads/main.py",
+		"/home/aviral/Downloads/study/wp/Media/WhatsApp Images/IMG-20201010-WA0000.jpg",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/ds_algo/14_patternQues.cpp",
+		"/home/aviral/Documents/WhatsApp Documents/mini-programming-contest-2.txt",
+		"/home/aviral/Downloads/riya.java",
+		"/home/aviral/Documents/gssoc.txt",
+		"/home/aviral/Downloads/Teams | GirlScript Foundation India_files/campus_ambassador.css",
+		"/media/aviral/Disk/Aviral/wiplSolution.cpp",
+		"/home/aviral/.config/Code/User/settings.json",
+		"/home/aviral/.config/sublime-text-3/Packages/User/my_cpp14.sublime-build",
+		"/home/aviral/.config/sublime-text-3/Packages/User/my_c.sublime-build",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_028_MetaBalls/P5/blob.js",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_028_MetaBalls/P5/sketch.js",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_036_Blobby/P5/sketch.js",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_154_Tic_Tac_Toe_Minimax/P5/sketch.js",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_157_Zoom_Annotations/2-final/index.html",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_157_Zoom_Annotations/2-final/sketch.js",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_158_Shape_Classifier/dataset-p5/sketch.js",
+		"/home/aviral/Downloads/website/CodingChallenges/CC_001_StarField/P5/index.html",
+		"/home/aviral/Downloads/discord_backup_codes.txt",
+		"/media/aviral/Disk/Aviral/Coding/python_projs/pastProjects/airMouse1/Air_Mouse.py",
+		"/media/aviral/Disk/Aviral/Coding/python_projs/pastProjects/faceTest1/face.py",
+		"/media/aviral/Disk/Aviral/Coding/python_projs/pastProjects/airMouse1/requirements.txt",
+		"/media/aviral/Disk/Aviral/Coding/python_projs/pastProjects/autocomplete1/main.py",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/processing_projs/pixles_1/pixles_1.pde",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/p5js_projs/MODDED MatteredP5/src/sketch.js",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/p5js_projs/selfP5withMATTER_project3/main/sketch.js",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/p5js_projs/MatteredP5_proj4/src/sketch.js",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/p5js_projs/MatteredP5_proj1/src/sketch.js",
+		"/media/aviral/Disk/Aviral/Coding/creative_coding/p5js_projs/MatteredP5_proj2/src/sketch.js",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cpp_template.txt",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/kietquick.c",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/quicktest.cpp",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cp_basics.txt",
+		"/media/aviral/Disk/Aviral/Coding/html_css/impCSS.txt",
+		"/home/aviral/.config/sublime-text-3/Packages/Theme - One Dark/One Dark.sublime-theme",
+		"/home/aviral/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aviral/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/aviral/Downloads/Monokai(1).tmTheme",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/ds_algo/output.txt",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/ds_algo/input.txt",
+		"/home/aviral/Downloads/41350897.cpp",
+		"/home/aviral/Downloads/MyProjects/p5js_matterjs/MODDED MatteredP5/src/sketch.js",
+		"/home/aviral/Downloads/MyProjects/html_css/Kasper Lab/s.css",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/output.txt",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/input.txt",
+		"/home/aviral/myfile.txt",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cp_basics",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/readymade.txt",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/quicktest.cpp",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/output.txt",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/cpcodes.txt",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/cp_basics",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/kietquick.c",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/input.txt",
+		"/media/aviral/Disk1/Aviral/Coding/cp_setup/README.md",
+		"/home/aviral/Downloads/config/vs_code/linux/howto.txt",
+		"/home/aviral/Downloads/config/sublime/linux/howto.txt",
+		"/home/aviral/Downloads/config/vs_code/linux/tasks.json",
+		"/home/aviral/Downloads/config/sublime/linux/my_c.sublime-build",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/outputf.in",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/outputf.in",
+		"/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/inputf.in",
+		"/media/aviral/Disk1/Aviral/Coding/progs/cpp_projs/cp/inputf.in"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"integer",
+			"hackerrank",
+			"complement",
+			"~",
+			"hackerrank",
+			"<br>",
+			"password",
+			"no",
+			"agcy",
+			"fact",
+			"hacker",
+			"long",
+			"local",
+			"bin",
+			"bina",
+			");\n",
+			"gcd",
+			"arra"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<br><br>"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cp_basics.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1371,
+								1371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/cpcodes.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13672,
+								13672
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10821.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/snippets.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/quicktest.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 192.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/kietquick.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"auto_name": "data-list",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/input.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/media/aviral/Disk/Aviral/Coding/progs/cpp_projs/cp/output.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.785691115622,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 69.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/my_cpp14.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

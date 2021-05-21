@@ -7,9 +7,12 @@
 	[
 		"A File Icon",
 		"C++ Completions",
+		"CSS3",
+		"HTML5",
 		"Material Theme",
 		"Materialize-Appbar",
 		"Package Control",
-		"PackageDev"
+		"PackageDev",
+		"SideBarEnhancements"
 	]
 }
