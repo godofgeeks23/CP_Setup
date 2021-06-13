@@ -12,7 +12,6 @@
 		"Material Theme",
 		"Materialize-Appbar",
 		"Package Control",
-		"PackageDev",
-		"SideBarEnhancements"
-	]
+		"SideBarEnhancements",
+	],
 }

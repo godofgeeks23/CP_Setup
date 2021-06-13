@@ -8,7 +8,7 @@
 	"font_size": 9.5,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
@@ -28,5 +28,9 @@
 	"material_theme_tabs_separator": true,
 	"material_theme_titlebar": true,
 	"scroll_speed": 2.0,
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
+	"margin": 1,
+	"auto_hide_menu": true,
+	// "wrap_width": 0,
+	"word_wrap": true,
 }
